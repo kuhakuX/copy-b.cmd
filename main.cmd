@@ -1,1 +1,1 @@
-copy/b 1.png+2zip 3.png
+copy/b PICTURE.png+FILE.zip TARGET_PICTURE.png
